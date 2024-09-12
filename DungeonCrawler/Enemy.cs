@@ -21,5 +21,12 @@ namespace DungeonCrawler
             AttackPower = attackPower;
             DefensePower = defensePower;
         }
+
+        public void Attack(Player player)
+        {
+            int damageDealt = Math.Max(1, AttackPower - player.DefensePower);
+            Console.WriteLine($"The {Name} attacks you for {damageDealt} damage.");
+            player.Health -= damageDealt;
+        }
     }
 }
