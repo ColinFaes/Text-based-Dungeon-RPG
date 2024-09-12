@@ -22,3 +22,9 @@ namespace DungeonCrawler
             DefensePower = 5;
             CurrentObjective = "Explore the dungeon, find the final bossroom and defeat the final boss.";
         }
+        public void Attack(Enemy enemy)
+        {
+            int damageDealt = Math.Max(1, AttackPower - enemy.DefensePower);
+            Console.WriteLine($"You attack the {enemy.Name} for {damageDealt} damage.");
+            enemy.Health -= damageDealt;
+        }
