@@ -63,11 +63,30 @@ namespace DungeonCrawler
             Player player;
             List<Room> dungeon;
             int currentRoomIndex = 0;
+
+                Console.Write("Enter your character's name: ");
                 string playerName = Console.ReadLine();
                 player = new Player(playerName);
                 dungeon = GenerateRandomDungeon();
             for (int i = currentRoomIndex; i < dungeon.Count; i++)
             {
                 dungeon[i].Enter(player);
+                if (player.Health <= 0)
+                {
+                    Console.WriteLine("Game over.");
+                    break;
+                }
+            }
+
+            if (player.Health > 0)
+            {
+                Console.WriteLine($"Congratulations {player.Name}! You have completed the dungeon.");
+            }
+
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
+        }
             }
         }
+    }
+}
