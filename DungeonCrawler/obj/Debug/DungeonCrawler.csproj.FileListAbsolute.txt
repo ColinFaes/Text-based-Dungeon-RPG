@@ -1,0 +1,16 @@
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\bin\Debug\DungeonCrawler.exe.config
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\bin\Debug\DungeonCrawler.exe
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\bin\Debug\DungeonCrawler.pdb
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.AssemblyReference.cache
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.SuggestedBindingRedirects.cache
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.CoreCompileInputs.cache
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\obj\Debug\DungeonCrawler.exe
+C:\Users\colin\OneDrive\Curio\DungeonCrawler\obj\Debug\DungeonCrawler.pdb
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\bin\Debug\DungeonCrawler.exe.config
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\bin\Debug\DungeonCrawler.exe
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\bin\Debug\DungeonCrawler.pdb
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.AssemblyReference.cache
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.SuggestedBindingRedirects.cache
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\obj\Debug\DungeonCrawler.csproj.CoreCompileInputs.cache
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\obj\Debug\DungeonCrawler.exe
+C:\Users\colin\OneDrive\Curio\Text-based-Dungeon-RPG\DungeonCrawler\obj\Debug\DungeonCrawler.pdb

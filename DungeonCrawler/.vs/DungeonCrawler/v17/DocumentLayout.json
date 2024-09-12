@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|c:\\users\\colin\\onedrive\\curio\\text-based-dungeon-rpg\\dungeoncrawler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\bossroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:bossroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:puzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9B8E3EC-BF4B-46C8-9052-3E21F35983DC}|DungeonCrawler.csproj|solutionrelative:npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAIwGIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:13:11.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "SaveLoadManager.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\SaveLoadManager.cs",
+              "RelativeToolTip": "SaveLoadManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:05:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Weapon.cs",
+              "RelativeDocumentMoniker": "Weapon.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Weapon.cs",
+              "RelativeToolTip": "Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:07:17.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Armor.cs",
+              "RelativeDocumentMoniker": "Armor.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Armor.cs",
+              "RelativeToolTip": "Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:09:32.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Boss.cs",
+              "RelativeDocumentMoniker": "Boss.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Boss.cs",
+              "RelativeToolTip": "Boss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:12:12.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BossRoom.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\BossRoom.cs",
+              "RelativeDocumentMoniker": "BossRoom.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\BossRoom.cs",
+              "RelativeToolTip": "BossRoom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:14:09.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:11:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T08:01:05.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T06:48:26.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:07:57.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Puzzle.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Puzzle.cs",
+              "RelativeDocumentMoniker": "Puzzle.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Puzzle.cs",
+              "RelativeToolTip": "Puzzle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:15:12.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Potion.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Potion.cs",
+              "RelativeDocumentMoniker": "Potion.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Potion.cs",
+              "RelativeToolTip": "Potion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:08:44.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAgwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:10:16.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\NPC.cs",
+              "RelativeDocumentMoniker": "NPC.cs",
+              "ToolTip": "C:\\Users\\colin\\OneDrive\\Curio\\Text-based-Dungeon-RPG\\DungeonCrawler\\NPC.cs",
+              "RelativeToolTip": "NPC.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwGUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:15:53.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
