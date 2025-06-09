@@ -7,12 +7,16 @@ using System.Xml.Serialization;
 
 namespace DungeonCrawler
 {
+    [Serializable]
+    [XmlInclude(typeof(Boss))]
     public class Enemy
     {
         public string Name { get; set; }
         public int Health { get; set; }
         public int AttackPower { get; set; }
         public int DefensePower { get; set; }
+
+        public Enemy() { }
 
         public Enemy(string name, int health, int attackPower, int defensePower)
         {

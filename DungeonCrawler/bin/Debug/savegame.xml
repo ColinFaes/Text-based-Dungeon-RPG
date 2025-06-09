@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <Name>Colin</Name>
+    <Health>72</Health>
+    <AttackPower>17</AttackPower>
+    <DefensePower>19</DefensePower>
+    <Gold>30</Gold>
+    <Inventory>
+      <Item xsi:type="Weapon">
+        <Name>Battle Axe</Name>
+        <Type>Weapon</Type>
+        <Value>7</Value>
+        <Damage>14</Damage>
+      </Item>
+    </Inventory>
+    <CurrentWeapon>
+      <Name>Rusty Sword</Name>
+      <Type>Weapon</Type>
+      <Value>14</Value>
+      <Damage>7</Damage>
+    </CurrentWeapon>
+    <CurrentArmor>
+      <Name>Chainmail</Name>
+      <Type>Armor</Type>
+      <Value>14</Value>
+      <Defense>14</Defense>
+    </CurrentArmor>
+    <CurrentObjective>Explore the dungeon, find the final bossroom and defeat the final boss.</CurrentObjective>
+  </Player>
+  <Dungeon>
+    <Room>
+      <Description>A narrow corridor with flickering torches.</Description>
+      <Enemy>
+        <Name>Goblin</Name>
+        <Health>-1</Health>
+        <AttackPower>6</AttackPower>
+        <DefensePower>6</DefensePower>
+      </Enemy>
+      <Item xsi:type="Armor">
+        <Name>Steel Armor</Name>
+        <Type>Armor</Type>
+        <Value>9</Value>
+        <Defense>9</Defense>
+      </Item>
+      <Npc>
+        <Name>Old Merchant</Name>
+        <Greeting>Greetings, hero. Do you seek knowledge?</Greeting>
+      </Npc>
+    </Room>
+    <Room>
+      <Description>A narrow corridor with flickering torches.</Description>
+      <Puzzle>
+        <Description>Answer the question: What comes once in a minute, twice in a moment, but never in a thousand years?</Description>
+        <Reward xsi:type="Weapon">
+          <Name>Rusty Sword</Name>
+          <Type>Weapon</Type>
+          <Value>13</Value>
+          <Damage>13</Damage>
+        </Reward>
+      </Puzzle>
+      <Npc>
+        <Name>Old Merchant</Name>
+        <Greeting>Welcome traveler! I have rare items for sale.</Greeting>
+      </Npc>
+    </Room>
+    <Room>
+      <Description>A small room filled with cobwebs.</Description>
+      <Enemy>
+        <Name>Skeleton</Name>
+        <Health>-3</Health>
+        <AttackPower>5</AttackPower>
+        <DefensePower>4</DefensePower>
+      </Enemy>
+      <Item xsi:type="Armor">
+        <Name>Chainmail</Name>
+        <Type>Armor</Type>
+        <Value>12</Value>
+        <Defense>12</Defense>
+      </Item>
+      <Puzzle>
+        <Description>Solve the riddle: What has keys but can't open locks?</Description>
+        <Reward xsi:type="Armor">
+          <Name>Steel Armor</Name>
+          <Type>Armor</Type>
+          <Value>6</Value>
+          <Defense>6</Defense>
+        </Reward>
+      </Puzzle>
+      <Npc>
+        <Name>Mysterious Stranger</Name>
+        <Greeting>Welcome traveler! I have rare items for sale.</Greeting>
+      </Npc>
+    </Room>
+    <Room>
+      <Description>A small room filled with cobwebs.</Description>
+      <Enemy>
+        <Name>Orc</Name>
+        <Health>-9</Health>
+        <AttackPower>9</AttackPower>
+        <DefensePower>5</DefensePower>
+      </Enemy>
+      <Puzzle>
+        <Description>Arrange the symbols to unlock the door: X, O, X</Description>
+        <Reward xsi:type="Potion">
+          <Name>Health Potion</Name>
+          <Type>Potion</Type>
+          <Value>24</Value>
+          <HealAmount>24</HealAmount>
+        </Reward>
+      </Puzzle>
+      <Npc>
+        <Name>Wandering Sage</Name>
+        <Greeting>Welcome traveler! I have rare items for sale.</Greeting>
+      </Npc>
+    </Room>
+    <Room>
+      <Description>A dark and damp cave.</Description>
+      <Enemy>
+        <Name>Zombie</Name>
+        <Health>-1</Health>
+        <AttackPower>17</AttackPower>
+        <DefensePower>3</DefensePower>
+      </Enemy>
+      <Item xsi:type="Weapon">
+        <Name>Battle Axe</Name>
+        <Type>Weapon</Type>
+        <Value>7</Value>
+        <Damage>14</Damage>
+      </Item>
+      <Npc>
+        <Name>Wandering Sage</Name>
+        <Greeting>Ah, a brave soul! I have some advice for you.</Greeting>
+      </Npc>
+    </Room>
+    <Room xsi:type="BossRoom">
+      <Description>You see a massive chamber, with a terrifying presence looming in the shadows.</Description>
+      <Enemy xsi:type="Boss">
+        <Name>Dragon King</Name>
+        <Health>200</Health>
+        <AttackPower>30</AttackPower>
+        <DefensePower>15</DefensePower>
+      </Enemy>
+    </Room>
+  </Dungeon>
+  <CurrentRoomIndex>4</CurrentRoomIndex>
+</GameState>
